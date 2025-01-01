@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+}
+
+label {
+    height: fit-content;
+    width: fit-content;
+    background-color: yellow;
+}
+
+.image {
+    max-width: 1000px;
+    max-height: 300px;
+}
+
+li {
+    padding-bottom: 15px;
+}
+
+.date{
+    display: flex;
+}
+
+.button {
+    border: none;
+    color: teal;
+    border-radius: 5px;
+}
+
+#date {
+    padding-left: 50px;
+}
